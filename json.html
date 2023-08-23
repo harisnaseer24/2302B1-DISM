@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+
+
+
+
+
+    <script>
+let person={
+    name: "Haroon Johnson",
+    age:18,
+    location:"karachi",
+    qualification:"BSCS",
+    address:"abc block-2, johar mor"  
+}
+
+// document.write(person+" ");
+// console.log(person);
+
+// document.write(person.name+" ");
+// document.write(person.age+" ");
+// document.write(person.address+" ");
+
+
+
+
+let jsonPerson=JSON.stringify(person);
+// document.write(jsonPerson);
+// console.log(jsonPerson);
+
+localStorage.setItem("person",jsonPerson);
+
+// let convertedObj=JSON.parse(jsonPerson);
+// document.write(convertedObj);
+
+document.write(JSON.parse(localStorage.getItem("person")));
+
+    </script>
+</body>
+</html>

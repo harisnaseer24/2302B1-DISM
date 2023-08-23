@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="aptech.dtd" type="application/xml-dtd"?>
+<?xml-stylesheet href="aptech.xsl" type="text/xsl"?>
+<?xml-model href="aptech.xsd" type="application/xml" schematypens="http://www.w3.org/2001/XMLSchema"?>
+<SirHaris>
+    <batch>
+        <code>2302B1</code>
+        <timing>9-11 TTS</timing>
+        <count>19</count>
+    </batch>
+    <batch>
+        <code>2301B2</code>
+        <timing>9-11 MWF</timing>
+        <count>15</count>
+    </batch>
+    <batch>
+        <code>2302C2</code>
+        <timing>11-1 TTS</timing>
+        <count>15</count>
+    </batch>
+    <batch>
+        <code>2301C2</code>
+        <timing>11-1 MWF</timing>
+        <count>15</count>
+    </batch>
+    <batch>
+        <code>23013C2</code>
+        <timing>11-1 MWF</timing>
+        <count>150</count>
+    </batch>
+    <batch>
+        <code>2301k2</code>
+        <timing>11-1 MWF</timing>
+        <count>165</count>
+    </batch>
+</SirHaris>

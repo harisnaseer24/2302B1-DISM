@@ -1,0 +1,5 @@
+<!ELEMENT SirHaris (batch+)>
+<!ELEMENT batch (code,timing,count)>
+<!ELEMENT code (#PCDATA)>
+<!ELEMENT timing (#PCDATA)>
+<!ELEMENT count (#PCDATA)>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mobilesol>
+<mobile>
+    <id>001</id>
+    <brand>OPPO</brand>
+    <model>F19 Pro</model>
+    <price>49000</price>
+</mobile>
+<mobile>
+    <id>002</id>
+    <brand>APPLE</brand>
+    <model>14 PRO</model>
+    <price>350000</price>
+</mobile>
+<mobile>
+    <id>003</id>
+    <brand>SAMSUNG</brand>
+    <model>S23 ULTRA</model>
+    <price>380000</price>
+</mobile>
+<mobile>
+    <id>004</id>
+    <brand>INFINIX</brand>
+    <model>NOTE 30 PRO</model>
+    <price>50000</price>
+</mobile>
+<mobile>
+    <id>005</id>
+    <brand>VIVO</brand>
+    <model>V23</model>
+    <price>65000</price>
+</mobile>
+
+</mobilesol>
